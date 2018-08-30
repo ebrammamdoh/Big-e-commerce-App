@@ -1,0 +1,134 @@
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\csc.exe
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\vbc.exe
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\VBCSCompiler.exe
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\AngularApi.dll.config
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\AngularApi.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\AngularApi.pdb
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\EntityFramework.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\EntityFramework.SqlServer.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Newtonsoft.Json.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\System.Net.Http.Formatting.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Http.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Http.WebHost.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\EntityFramework.xml
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\EntityFramework.SqlServer.xml
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Newtonsoft.Json.xml
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\System.Net.Http.Formatting.xml
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Http.xml
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Http.WebHost.xml
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\obj\Debug\AngularApi.dll
+c:\users\ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\obj\Debug\AngularApi.pdb
+c:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Cors.dll
+c:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Http.Cors.dll
+c:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Http.Cors.xml
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\obj\Debug\AngularApi.Migrations.mig1.resources
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\obj\Debug\AngularApi.csproj.GenerateResource.Cache
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Cors.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Owin.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.xml
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Cors.xml
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Ebram\Documents\Visual Studio 2015\Projects\AngularApi\AngularApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Http.Owin.dll
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\bin\System.Web.Http.Owin.xml
+C:\Users\Ebram\documents\visual studio 2015\Projects\AngularApi\AngularApi\obj\Debug\AngularApi.csprojResolveAssemblyReference.cache
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\csc.exe
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\System.Collections.Immutable.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\vbc.exe
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\VBCSCompiler.exe
+D:\DataBases2018\AngularApi\AngularApi\bin\roslyn\VBCSCompiler.exe.config
+D:\DataBases2018\AngularApi\AngularApi\bin\AngularApi.dll.config
+D:\DataBases2018\AngularApi\AngularApi\bin\AngularApi.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\AngularApi.pdb
+D:\DataBases2018\AngularApi\AngularApi\bin\EntityFramework.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\EntityFramework.SqlServer.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Logging.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Tokens.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Cors.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Security.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Newtonsoft.Json.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\Owin.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Net.Http.Formatting.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Cors.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Http.Cors.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Http.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Http.Owin.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Http.WebHost.dll
+D:\DataBases2018\AngularApi\AngularApi\bin\EntityFramework.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\EntityFramework.SqlServer.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Logging.pdb
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Logging.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.IdentityModel.Tokens.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Cors.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Security.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\Newtonsoft.Json.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\DataBases2018\AngularApi\AngularApi\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Net.Http.Formatting.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Http.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Http.Cors.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Http.Owin.xml
+D:\DataBases2018\AngularApi\AngularApi\bin\System.Web.Http.WebHost.xml
+D:\DataBases2018\AngularApi\AngularApi\obj\Debug\AngularApi.csprojResolveAssemblyReference.cache
+D:\DataBases2018\AngularApi\AngularApi\obj\Debug\AngularApi.Migrations.mig1.resources
+D:\DataBases2018\AngularApi\AngularApi\obj\Debug\AngularApi.csproj.GenerateResource.Cache
+D:\DataBases2018\AngularApi\AngularApi\obj\Debug\AngularApi.dll
+D:\DataBases2018\AngularApi\AngularApi\obj\Debug\AngularApi.pdb
